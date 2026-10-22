@@ -1,4 +1,4 @@
-# Smart Parking Lot – Backend
+# Smart Parking Lot
 
 A Spring Boot REST API for managing a multi-floor parking lot. It automatically assigns the best parking spot based on vehicle size, tracks entry and exit times, calculates fees by duration and vehicle type, and provides real-time spot availability.
 
